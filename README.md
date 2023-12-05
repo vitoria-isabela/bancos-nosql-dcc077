@@ -1,3 +1,5 @@
+<div style="border: solid 1px; width: fit-content; padding: 0px 20px 20px 20px; border-color: rgba(234,234,234,1)">
+
 # UFJF | DCC077 - Aspectos Avançados em Bancos de Dados
  
 # Relatório Final - Bancos de dados NoSQL
